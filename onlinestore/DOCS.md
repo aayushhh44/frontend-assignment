@@ -31,10 +31,7 @@ The ecommerce website utilizes a range of modern technologies to provide an effi
     <a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=blue"
             alt="react" />
-    </a><a href="https://react-redux.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/React%20Redux-764abc?style=for-the-badge&logo=Redux&logoColor=blue"
-            alt="react" />
-    </a><a href="https://fakestoreapi.com/" target="_blank" rel="noreferrer">
+    <a href="https://fakestoreapi.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Fake%20Shop%20API-61DBFB?style=for-the-badge"
             alt="react" />
     </a>
